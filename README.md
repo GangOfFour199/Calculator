@@ -37,3 +37,7 @@ The final project of the foundations course, this page contains a calculator whi
 [Try the calculator here!](https://gangoffour199.github.io/Sign-up-form/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
+
+## NOTE
+
+*Will return to this project to create an object of Calculator and instantiate a Calculator object.*
