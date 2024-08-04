@@ -34,7 +34,7 @@ The final project of the foundations course, this page contains a calculator whi
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/foundations-calculator)
 
-[Try the calculator here!](https://gangoffour199.github.io/Calculator/)
+[Have a go with the calculator here!](https://gangoffour199.github.io/Calculator/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
 
