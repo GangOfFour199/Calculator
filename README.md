@@ -1,6 +1,6 @@
 # CALCULATOR
 
-![](https://github.com/GangOfFour199/Sign-up-form/blob/main/assets/SandinistaTech.png)
+![](https://github.com/GangOfFour199/Calculator/blob/main/Calculator.png)
 
 
 
