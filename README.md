@@ -1,4 +1,4 @@
-# SIGN UP FORM
+# CALCULATOR
 
 ![](https://github.com/GangOfFour199/Sign-up-form/blob/main/assets/SandinistaTech.png)
 
