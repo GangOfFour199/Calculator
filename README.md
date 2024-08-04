@@ -28,6 +28,6 @@ The final project of the foundations course, this page contains a calculator whi
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/foundations-calculator)
 
-[Have a go with the sign-up form here!](https://gangoffour199.github.io/Sign-up-form/)
+[Try the calculator here!](https://gangoffour199.github.io/Sign-up-form/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
