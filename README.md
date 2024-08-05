@@ -8,7 +8,7 @@
 
 The final project of the foundations course, this page contains a calculator which is able to solve and display simple mathematical probelms. It includes:
 
-- Calulate and dsiplay values of addition, multiplication, subtraction and division.
+- Calculate and display values of addition, multiplication, subtraction and division.
 - Will clear display and values with the 'AC' button.
 - Stores and displays values after calculations inputted.
 - Limit of one deicmal place permitted for each value in the equation.
